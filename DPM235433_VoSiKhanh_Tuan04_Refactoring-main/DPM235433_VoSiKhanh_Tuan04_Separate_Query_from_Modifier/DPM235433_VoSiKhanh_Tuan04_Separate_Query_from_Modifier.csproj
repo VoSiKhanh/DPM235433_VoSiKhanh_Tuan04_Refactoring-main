@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>DPM235433_VoSiKhanh_Tuan04_Separate_Query_from_Modifier</RootNamespace>
+    <AssemblyName>DPM235433_VoSiKhanh_Tuan04_Separate_Query_from_Modifier</AssemblyName>
+  </PropertyGroup>
+</Project>
+

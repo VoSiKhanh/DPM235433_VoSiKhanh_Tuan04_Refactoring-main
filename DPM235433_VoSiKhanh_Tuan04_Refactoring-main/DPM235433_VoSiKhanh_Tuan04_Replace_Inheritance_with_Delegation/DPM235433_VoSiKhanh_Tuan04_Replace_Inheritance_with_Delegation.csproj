@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>DPM235433_VoSiKhanh_Tuan04_Replace_Inheritance_with_Delegation</RootNamespace>
+    <AssemblyName>DPM235433_VoSiKhanh_Tuan04_Replace_Inheritance_with_Delegation</AssemblyName>
+  </PropertyGroup>
+</Project>
+

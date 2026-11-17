@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235433_VoSiKhanh_Tuan04_Remove_Control_Flag", "DPM235433_VoSiKhanh_Tuan04_Remove_Control_Flag.csproj", "{4EA0D510-B9DC-4977-9C9F-9AA25089AEAE}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {4EA0D510-B9DC-4977-9C9F-9AA25089AEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {4EA0D510-B9DC-4977-9C9F-9AA25089AEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {4EA0D510-B9DC-4977-9C9F-9AA25089AEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {4EA0D510-B9DC-4977-9C9F-9AA25089AEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal

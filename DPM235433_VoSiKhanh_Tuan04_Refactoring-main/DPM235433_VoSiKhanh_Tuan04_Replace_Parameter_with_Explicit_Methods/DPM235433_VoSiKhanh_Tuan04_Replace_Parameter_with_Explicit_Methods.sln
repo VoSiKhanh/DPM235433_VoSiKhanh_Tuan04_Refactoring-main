@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235433_VoSiKhanh_Tuan04_Replace_Parameter_with_Explicit_Methods", "DPM235433_VoSiKhanh_Tuan04_Replace_Parameter_with_Explicit_Methods.csproj", "{216B1B02-6695-4365-9921-EC05AD555CAA}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {216B1B02-6695-4365-9921-EC05AD555CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {216B1B02-6695-4365-9921-EC05AD555CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {216B1B02-6695-4365-9921-EC05AD555CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {216B1B02-6695-4365-9921-EC05AD555CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
